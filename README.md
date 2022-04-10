@@ -7,7 +7,10 @@ You must have [the most up-to-date version of Haxe](https://haxe.org/download/),
 Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
 
 The engine has an android support. For making mp4 cutscene works in android you have to install this extension: `haxelib git https://github.com/jigsaw-4277821/extension-videoview ` on a Command prompt/PowerShell
+
 To install LuaJIT you have to use this because of the android support stuff: `haxelib git linc_luajit https://github.com/jigsaw-4277821/linc_luajit-nebulazorua ` on a Command prompt/PowerShell
+
+Also you need this for compiling: `https://github.com/jigsaw-4277821/AndroidTools ` on a Command prompt/PowerShell
 
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
