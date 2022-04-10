@@ -81,16 +81,19 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-		        ['Android Port'],
-		        ['Saw (M.A. Jigsaw)','saw','Main Coder','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
+		        ['Sick Engine'],
+			['VegethYT', 'vegethyt', 'Main Programmer and Director of Sick Engine', 'https://www.youtube.com/channel/UCxkiBjTcKVb7ffsIUg-PILQ', '000099'].
 		        [''],
-			['Psych Engine Team'],
-			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
-			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
-			['shubs',				'shubs',			'Additional Programmer of Psych Engine',					'https://twitter.com/yoshubs',			'279ADC'],
+			['Sick Engine Contributors'],
+			['Saw (M.A. Jigsaw)','saw','Android Support and Libraries','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
+		        [''],
+			['Base Engine Team'],
+			['Shadow Mario',		'shadowmario',		'Main Programmer of The Base Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
+			['RiverOaken',			'riveroaken',		'Main Artist/Animator of The Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
+			['shubs',				'shubs',			'Additional Programmer of The Base Engine',					'https://twitter.com/yoshubs',			'279ADC'],
 			[''],
-			['Former Engine Members'],
-			['bb-panzu',			'bb-panzu',			'Ex-Programmer of Psych Engine',							'https://twitter.com/bbsub3',			'389A58'],
+			['Former Base Engine Members'],
+			['bb-panzu',			'bb-panzu',			'Ex-Programmer of The Base Engine',							'https://twitter.com/bbsub3',			'389A58'],
 			[''],
 			['Engine Contributors'],
 			['iFlicky',				'iflicky',			'Composer of Psync and Tea Time\nMade the Dialogue Sounds',	'https://twitter.com/flicky_i',			'AA32FE'],
