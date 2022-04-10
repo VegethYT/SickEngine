@@ -95,7 +95,7 @@ class CreditsState extends MusicBeatState
 			['Former Base Engine Members'],
 			['bb-panzu',			'bb-panzu',			'Ex-Programmer of The Base Engine',							'https://twitter.com/bbsub3',			'389A58'],
 			[''],
-			['Engine Contributors'],
+			['Base Engine Contributors'],
 			['iFlicky',				'iflicky',			'Composer of Psync and Tea Time\nMade the Dialogue Sounds',	'https://twitter.com/flicky_i',			'AA32FE'],
 			['SqirraRNG',			'gedehari',			'Chart Editor\'s Sound Waveform base',						'https://twitter.com/gedehari',			'FF9300'],
 			['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',								'https://twitter.com/polybiusproxy',	'FFEAA6'],
