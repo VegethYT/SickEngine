@@ -81,8 +81,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-		        ['Sick Engine'],
-			['VegethYT', 'vegethyt', 'Main Programmer and Director of Sick Engine', 'https://www.youtube.com/channel/UCxkiBjTcKVb7ffsIUg-PILQ', '000099'].
+		        ['Sick Engine Team'],
+			['VegethYT', 'vegethyt', 'Main Programmer and Director of Sick Engine', 'https://www.youtube.com/channel/UCxkiBjTcKVb7ffsIUg-PILQ', '000099'],
+			[''],
 			['Sick Engine Contributors'],
 			['Saw (M.A. Jigsaw)','saw','Android Support and Libraries','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
 		        [''],
